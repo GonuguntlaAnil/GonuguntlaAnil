@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Gonuguntla Anil Kumar
 - 👀 I’m interested in Software Development
 - 💞️ I’m looking to collaborate on web development projects
-- 📫 How to reach me ga186654@gmail.com
+- 📫 How to reach me anilkumargonuguntla03@gmail.com
 
 
 <!---
